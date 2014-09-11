@@ -1,3 +1,3 @@
-source "https://#{ENV['GEMSPEC_KEY']}@gem.fury.io/me/"
+source "https://#{ENV['GEMSPEC_KEY']}@gem.fury.io/evertrue/"
 
 gemspec
